@@ -10,7 +10,6 @@ echo -n "0.2.0" > /data/params/d/CompletedTrainingVersion
 
 export PASSIVE="0"
 export FORCEWIFI="1"
-export FAKESEND="1"
 export SKIP_FW_QUERY="1"
 
 exec ./launch_chffrplus.sh
